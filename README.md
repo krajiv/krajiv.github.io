@@ -1,4 +1,4 @@
 # Rajiv Kumar
- Architect
- Micro Focus
- raajivkumar@gmail.com
+raajivkumar@gmail.com
+
+Building the next-gen identity management solution...
